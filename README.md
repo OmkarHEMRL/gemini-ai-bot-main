@@ -1,4 +1,4 @@
-## Hello everyone, I am [Prathamesh Chougale](https://www.linkedin.com/in/prathamesh-chougale/) a Fullstack developer in nextjs.
+## Hello everyone, I am [Omkar Sarshetti](https://www.linkedin.com/in/omkar-sarshetti/)
 
 #### This is chatbot which is made using Nextjs and Gemini api. It is a simple chatbot which can be used to ask questions and get answers. More updates will be coming soon.
 #### And also this is hosted on vercel.com 
